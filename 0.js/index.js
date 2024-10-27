@@ -11,3 +11,6 @@ let cantidad = 5;
 let totalCompra = sumarProductos (precio, cantidad);
 
 console.log(`La suma total es $${totalCompra}`)
+console.log(`El resultado de la funcion sumarProdcutos es ${totalCompra}`)
+
+// ------------ Desafio 5 ------------

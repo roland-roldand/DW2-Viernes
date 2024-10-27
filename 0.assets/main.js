@@ -1,5 +1,4 @@
 alert("Hola desde main.js")
-alert("PROFE, EL TRABAJO ANTERIOR ESTABA MAL PORQUE NO ERA EL QUE TENIA QUE CORREGIR")
 console.log("hola desde main.js")
 
 let x = 10
